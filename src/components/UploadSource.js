@@ -108,7 +108,7 @@ const UploadSource = () => {
           row2 = [
             xlsxData[i][0],
             xlsxData[i][1],
-            xlsxData[i][8],
+            "445660",
             xlsxData[i][3],
             xlsxData[i][4],
             parseFloat(intermediateValue.toFixed(2)),
