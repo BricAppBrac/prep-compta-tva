@@ -15,7 +15,7 @@ const Home = () => {
   let content = (
     <div className="home">
       <div className="home-title">
-        <h1>PREPARATION TVA COMPTA</h1>
+        <h1>INTEGRATION XLS COMPTA</h1>
         <button onClick={handleHome}>
           <i className="fa-solid fa-house"></i>
         </button>
